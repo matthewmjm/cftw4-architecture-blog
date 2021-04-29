@@ -1,0 +1,11 @@
+.nav {
+	width: 40%;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	background-color: #fff;
+}
+
+.nav li {
+	list-style-type: none;
+}
